@@ -1,10 +1,10 @@
 # CalendarSelf-master
 # 说明
-// 选择点击颜色
-#define SelectedColor [UIColor cyanColor]
-// 被选中间颜色
+##// 选择点击颜色
+##define SelectedColor [UIColor cyanColor]
+#// 被选中间颜色
 #define SelMiddleColor [UIColor greenColor]
-// DateLabel默认文字颜色
+#// DateLabel默认文字颜色
 #define MSS_TextColor [UIColor blackColor]
 // DateLabel选中时的背景色
 #define MSS_SelectBackgroundColor MSS_UTILS_COLORRGB(29, 154, 72)
