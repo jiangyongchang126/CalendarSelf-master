@@ -54,7 +54,7 @@ typedef NS_ENUM(NSInteger, MSSCalendarWithUserType)
 #Example
 ```Objective-c
 MSSCalendarViewController *cvc = [[MSSCalendarViewController alloc]init];
-cvc.limitMonth = 12 * 15;// 显示几个月的日历
+cvc.limitMonth = 12;// 显示几个月的日历 价格日历中没有价格的去掉了
 /*
 MSSCalendarViewControllerLastType 只显示当前月之前
 MSSCalendarViewControllerMiddleType 前后各显示一半
